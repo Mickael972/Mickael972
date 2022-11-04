@@ -5,7 +5,7 @@
 
 <h3 align="center">Contactez moi:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/micka%c3%abl-juste-d%c3%a9veloppeurweb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micka%c3%abl-juste-d%c3%a9veloppeurweb/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/micka%C3%ABl-juste-d%C3%A9veloppeurweb/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micka%c3%abl-juste-d%c3%a9veloppeurweb/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Langages et Outils:</h3><br>
